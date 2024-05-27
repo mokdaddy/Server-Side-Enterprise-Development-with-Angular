@@ -36,7 +36,7 @@
     "@nguniversal/express-engine": "^6.1.0",
     "@nguniversal/module-map-ngfactory-loader": "^6.1.0",
     "core-js": "^2.5.4",
-    "rxjs": "~6.3.2",
+    "rxjs": "~6.6.7",
     "ts-loader": "^5.2.1",
     "webpack-cli": "^3.1.1",
     "zone.js": "~0.8.26"
